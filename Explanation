@@ -1,1 +1,0 @@
-To begin, we first want to read in our project metadata and expression data. Using `tidyverse` packages, read in the sample metadata file, `metadata.csv`, and return the head of the **first five** columns of the `tibble`.
